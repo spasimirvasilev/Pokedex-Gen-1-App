@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.js": "/Pokedex-Gen-1-App/static/js/main.2daa1346.js",
+    "static/js/787.15f6ce8f.chunk.js": "/Pokedex-Gen-1-App/static/js/787.15f6ce8f.chunk.js",
+    "static/media/dragon.svg": "/Pokedex-Gen-1-App/static/media/dragon.9ee1dc21a0c16cf0dfe3937a8da3cad8.svg",
+    "static/media/fire.svg": "/Pokedex-Gen-1-App/static/media/fire.67b3478a6a8225166ece232e53eb3c50.svg",
+    "static/media/psychic.svg": "/Pokedex-Gen-1-App/static/media/psychic.3fd0d3ca21ee7cef9d2dd85b0a9bfc5e.svg",
+    "static/media/fairy.svg": "/Pokedex-Gen-1-App/static/media/fairy.0e07701bbc44fb287b0fc84bca39e0ca.svg",
+    "static/media/bug.svg": "/Pokedex-Gen-1-App/static/media/bug.a6aaaf7bd0ad47661075679949ce163c.svg",
+    "static/media/rock.svg": "/Pokedex-Gen-1-App/static/media/rock.2bc2fede8d46ce9601f1c6ffc6e5d352.svg",
+    "static/media/ghost.svg": "/Pokedex-Gen-1-App/static/media/ghost.51f6b896c2b10942cdea823582db5bee.svg",
+    "static/media/flying.svg": "/Pokedex-Gen-1-App/static/media/flying.28f70640a45ac50b66582fc49d6ccec4.svg",
+    "static/media/fighting.svg": "/Pokedex-Gen-1-App/static/media/fighting.82a3a89765eea3f9200277808db3109f.svg",
+    "static/media/ice.svg": "/Pokedex-Gen-1-App/static/media/ice.478d9fb11b4add35229f48e84d989437.svg",
+    "index.html": "/Pokedex-Gen-1-App/index.html",
+    "static/media/poison.svg": "/Pokedex-Gen-1-App/static/media/poison.4023117dd0c7a607c3b26be59929d3aa.svg",
+    "static/media/steel.svg": "/Pokedex-Gen-1-App/static/media/steel.a2d9ac68338a2e3c6eaf57190bb1a279.svg",
+    "static/media/ground.svg": "/Pokedex-Gen-1-App/static/media/ground.3a85d1a51c1119820d2aa37d3858a3e9.svg",
+    "static/media/dark.svg": "/Pokedex-Gen-1-App/static/media/dark.5384f2979b17074b5b297f516ba33bac.svg",
+    "static/media/water.svg": "/Pokedex-Gen-1-App/static/media/water.116149e4295268c9fcd8f17a17afade5.svg",
+    "static/media/electric.svg": "/Pokedex-Gen-1-App/static/media/electric.d3750b82cba27e9d4a8db042d0fcc31f.svg",
+    "static/media/grass.svg": "/Pokedex-Gen-1-App/static/media/grass.aad179cb66cab7dd1a9831f2ceb32ef5.svg",
+    "static/media/normal.svg": "/Pokedex-Gen-1-App/static/media/normal.82ba4e91ac62a085989ef37b3ebb34a7.svg",
+    "main.2daa1346.js.map": "/Pokedex-Gen-1-App/static/js/main.2daa1346.js.map",
+    "787.15f6ce8f.chunk.js.map": "/Pokedex-Gen-1-App/static/js/787.15f6ce8f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.2daa1346.js"
+  ]
+}
